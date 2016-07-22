@@ -1,1 +1,2 @@
-#Inital release for customize dockerfile
+#Customized dockerfile
+Inital release
